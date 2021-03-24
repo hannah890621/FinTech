@@ -7,27 +7,27 @@
 ### [Homework 1](https://github.com/hannah890621/FinTech/blob/main/HW1/HW1.md)
 > What do I think of Cloud Computing?
 
-&nbsp;
 
-### [Homework 2](https://github.com/hannah890621/FinTech/blob/main/HW1/HW1.md)
-> 
 
-&nbsp;
+### [Homework 2](https://youtu.be/eAMW6D3pJ84)
+> EC2 with LAMP
+
+
 
 ### [Homework 3](https://github.com/hannah890621/FinTech/blob/main/HW1/HW1.md)
 >
 
-&nbsp;
+
 
 ### [Homework 4](https://github.com/hannah890621/FinTech/blob/main/HW1/HW1.md)
 >
 
-&nbsp;
+
 
 ### [Homework 5](https://github.com/hannah890621/FinTech/blob/main/HW1/HW1.md)
 >
 
-&nbsp;
+
 
 ### [Homework 6](https://github.com/hannah890621/FinTech/blob/main/HW1/HW1.md)
 >
