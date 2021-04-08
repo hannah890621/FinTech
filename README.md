@@ -14,8 +14,8 @@
 
 
 
-### [Homework 3](https://github.com/hannah890621/FinTech/blob/main/HW1/HW1.md)
->
+### [Homework 3](https://youtu.be/PSEy6EGkslA)
+>Build a Website using Amazon S3 and AWS Amplify
 
 
 
