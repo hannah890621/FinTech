@@ -29,12 +29,14 @@
 
 
 
-### [Homework 6](https://github.com/hannah890621/FinTech/blob/main/HW1/HW1.md)
->
+### [Homework 6](https://youtu.be/6UOPelMRMYE)
+>Create a Docker Container or Build your own Project Services
 
 &nbsp;
 
 # Final Project
+> 主題：永豐金證券題目一——千人千面證券自動化服務
+> 
 > 業師：呂正傑老師
 > 
 > 助教：鄭維助教
